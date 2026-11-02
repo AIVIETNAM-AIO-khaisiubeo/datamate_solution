@@ -1,0 +1,6 @@
+# Versions the deterministic engine was validated with (train PA 1.000). numpy is left to the base image (vLLM pins it).
+pandas==3.0.5
+openpyxl==3.1.5
+python-calamine==0.8.2
+rapidfuzz==3.14.6
+dill==0.4.1

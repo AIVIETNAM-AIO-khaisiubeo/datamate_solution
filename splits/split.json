@@ -1,0 +1,5 @@
+{
+  "note": "Business-level split (GroupKFold style). Sealed shops are scored ONLY in aggregate by eval_sealed.py; no rule may be written from their questions/answers. Chosen to cover file styles: handwritten monthly sheets, invoice-only CSV, building-materials export, pharmacy export, restaurant multi-CSV, POS sqlite.",
+  "sealed": ["biz_105", "biz_110", "biz_116", "biz_120", "biz_123", "biz_127"],
+  "created": "2026-11-01"
+}
